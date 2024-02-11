@@ -1,0 +1,226 @@
+[
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": 2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": 3.5,
+      "Y": -2.2
+    }
+  },
+  {
+    "$type": "Delivery.BaseOrder, Delivery",
+    "SubmissionDateTime": "2024-01-30T08:18:58.715669+03:00",
+    "DelayDateTime": "2024-02-02T08:18:58.715669+03:00",
+    "DeliveryDateTime": "0001-01-01T00:00:00",
+    "IsOrderFinished": false,
+    "MaxDimension": 0.3,
+    "Weight": 4.0,
+    "TargetPosition": {
+      "IsEmpty": false,
+      "X": -3.5,
+      "Y": -2.2
+    }
+  }
+]

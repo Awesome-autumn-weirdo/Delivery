@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Delivery.SortingCenter" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Delivery.SortingCenter.SimulationFinishedHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SortingCenter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAAAAgAEABAAAAIAAAAAAAAQAECAAAAAA=</HashCode>
+      <FileName>SortingCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.BaseOrder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEICCAAAAAQAAAAABAAEDAEAAASBAAAAAAAAAA=</HashCode>
+      <FileName>BaseOrder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Delivery.BaseDelivery" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAQIoIZAQgAmCAAgAhACBQAIBAEAAAFAAAgAAEACIQ=</HashCode>
+      <FileName>BaseDelivery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.RandomChooseOrdersStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>RandomChooseOrdersStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Delivery.GreedyChooseOrdersStrategy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GreedyChooseOrdersStrategy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Delivery.TransportImpl" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAACQABEAgAAABCgAAOAAAAAAAAAAAAAEAIJQ=</HashCode>
+      <FileName>TransportImpl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Delivery.Car">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAhA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.Bicycle">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Bicycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.OnFoot">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>OnFoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.DeliveryManLoader" Collapsed="true">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliveryManLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.DeliveryOrdersLoader" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeliveryOrdersLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Delivery.DeliveryStatistics" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAACgAAA=</HashCode>
+      <FileName>DeliveryStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Delivery.IDeliveryOrder" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEICCAAAAAAAAAAABAAEAAAAAACBAAAAAAAAAA=</HashCode>
+      <FileName>IDeliveryOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Delivery.IChooseOrdersStrategy" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IChooseOrdersStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Delivery.ITransport" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAEAAAAABAAAAKAAAAAAAAAAAAAEAAJQ=</HashCode>
+      <FileName>ITransport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

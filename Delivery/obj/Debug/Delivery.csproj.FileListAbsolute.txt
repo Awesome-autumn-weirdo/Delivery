@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\Delivery\Delivery\bin\Debug\Delivery.exe.config
+C:\Users\Professional\source\repos\Delivery\Delivery\bin\Debug\Delivery.exe
+C:\Users\Professional\source\repos\Delivery\Delivery\bin\Debug\Delivery.pdb
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.Menu.resources
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.Properties.Resources.resources
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.exe
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.pdb
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.MainForm.resources
+C:\Users\Professional\source\repos\Delivery\Delivery\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Professional\source\repos\Delivery\Delivery\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Professional\source\repos\Delivery\Delivery\obj\Debug\Delivery.csproj.CopyComplete

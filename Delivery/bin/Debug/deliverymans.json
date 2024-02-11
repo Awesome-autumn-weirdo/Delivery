@@ -1,0 +1,44 @@
+[
+  {
+    "BaseCostPerHour": 100.0,
+    "Transport": {
+      "$type": "Delivery.OnFoot, Delivery",
+      "SpeedLimit": 7.0,
+      "WeightLimit": 15.0,
+      "DimensionsLimit": 0.8,
+      "CostPerHour": 0.0,
+      "Position": {
+        "IsEmpty": true,
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "CurrentSpeed": 0.0,
+      "CurrentWeight": 0.0,
+      "MileageKms": 0.0
+    },
+    "ChooseOrdresStrategy": {
+      "$type": "Delivery.GreedyChooseOrdersStrategy, Delivery"
+    }
+  },
+  {
+    "BaseCostPerHour": 100.0,
+    "Transport": {
+      "$type": "Delivery.OnFoot, Delivery",
+      "SpeedLimit": 7.0,
+      "WeightLimit": 15.0,
+      "DimensionsLimit": 0.8,
+      "CostPerHour": 0.0,
+      "Position": {
+        "IsEmpty": true,
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "CurrentSpeed": 0.0,
+      "CurrentWeight": 0.0,
+      "MileageKms": 0.0
+    },
+    "ChooseOrdresStrategy": {
+      "$type": "Delivery.RandomChooseOrdersStrategy, Delivery"
+    }
+  }
+]
